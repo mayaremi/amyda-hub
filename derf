@@ -1,0 +1,43 @@
+[33mcommit 1d571b69b10923fc0a17210b6e0a6078d235ea52[m[33m ([m[1;36mHEAD -> [m[1;32mcom[m[33m, [m[1;33mtag: 1.0.0[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Maya <amyda@bk.ru>
+Date:   Mon Nov 30 17:18:56 2020 +0300
+
+    all right
+
+[33mcommit b13f1b8d20fabe0044be6212532d7b03a4d328ec[m
+Author: Maya <amyda@bk.ru>
+Date:   Mon Nov 30 16:44:28 2020 +0300
+
+    Revert "created dir images"
+    
+    This reverts commit 334440f78dd6629a324fa33f65f258cd1adea756.
+
+[33mcommit d32d42decb3cb054d7eb8965c91d6d994b7bd7f7[m
+Author: Maya <amyda@bk.ru>
+Date:   Mon Nov 30 15:23:51 2020 +0300
+
+    test commit
+
+[33mcommit 00b547d034a587b30d81dcec14b8be0fb1d22afe[m
+Author: Maya <amyda@bk.ru>
+Date:   Sun Nov 29 18:54:09 2020 +0300
+
+    ignore set up
+
+[33mcommit 334440f78dd6629a324fa33f65f258cd1adea756[m
+Author: Maya <amyda@bk.ru>
+Date:   Sun Nov 29 18:42:18 2020 +0300
+
+    created dir images
+
+[33mcommit 8bbea60a3c93607a28bdc04c9be082840e6a870d[m
+Author: Maya <amyda@bk.ru>
+Date:   Sun Nov 29 18:24:55 2020 +0300
+
+    updated readme.md
+
+[33mcommit fad39c25c39ab6fbe9e0a7128e6fd0fa6d2a9a96[m
+Author: Maya <amyda@bk.ru>
+Date:   Sun Nov 29 16:10:15 2020 +0300
+
+    add readme.madd readme.madd readme.mddd
